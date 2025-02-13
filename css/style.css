@@ -3,6 +3,8 @@
 /* Utilidades */
 @import "./utilidades/tipografia.css";
 @import "./utilidades/cores.css";
+@import "./utilidades/animacao.css";
+
 @import "./utilidades/componentes.css";
 @import "./utilidades/formulario.css";
 /* @import "./utilidades/simple-anime.css"; */
